@@ -3,3 +3,5 @@ This project shows my React skill in terms of interface with animation display u
 Other lib: React leaflet is also used to view location.
 
 Preview the project here: https://jason-folio.netlify.app/
+
+(Credit & Special Thanks to: freecodecamp.org)
