@@ -4,4 +4,4 @@ Other lib: React leaflet is also used to view location.
 
 Preview the project here: https://jason-folio.netlify.app/
 
-(Credit & Special Thanks to: freecodecamp.org)
+_(Credit & Special Thanks to: freecodecamp.org)_
