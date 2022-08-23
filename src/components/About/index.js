@@ -28,9 +28,9 @@ const About = () => {
                     </h1>
                     <p>I'm a greatly ambitious developer, seeking for a role in established software company with the opportunity to work with the technologies on challenging and diverse projects.</p>
                     <p> I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.</p>
-                    <p> <strong>Fundamental: </strong>Operating System, Computer Network, Data Structure & Algorithms </p>
+                    <p> <strong>Fundamental: </strong>Operating System, Computer Network, Data Structure and Algorithms </p>
                     <p> <strong>Front-end: </strong> HTML, SASS, JavaScript </p>
-                    <p> <strong>Back-end: </strong> Java, NodeJS, Golang </p>
+                    <p> <strong>Back-end: </strong> Java, NodeJS </p>
                     <p> <strong>Key Stack: </strong> MERN </p>
                     
                     <a target="_blank" href="https://github.com/jasonsangtran" className="flat-button">VIEW MY FORLIO</a>
